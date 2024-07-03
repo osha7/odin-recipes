@@ -1,6 +1,8 @@
 # Odin Project 
 Fundamentals course - revisiting HTML 
 
+## Find me live at
+[Odin-Recipes live hosted by Github](https://osha7.github.io/odin-recipes/)
 
 ## Assignment
 
